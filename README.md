@@ -6,3 +6,42 @@ There are 20 types of images below.
 
 Bonito, Calamari, CaliforniaRoll, CongerEel, Crab, FattyTuna, HerringRoe, InariSushi, LeanTuna, Mackerel, RedClam, Salmon, SalmonRoe, Scallop, SeaBream, SeaUrchin, Shrimp, SushiBurrito, Tamago, TunaSushiRoll
 
+## Bonito
+
+## Calamari
+
+## CaliforniaRoll
+
+## CongerEel
+
+## Crab
+
+## FattyTuna
+
+## HerringRoe
+
+## InariSushi
+
+## LeanTuna
+
+## Mackerel
+
+## RedClam
+
+## Salmon
+
+## SalmonRoe
+
+## Scallop
+
+## SeaBream
+
+## SeaUrchin
+
+## Shrimp
+
+## SushiBurrito
+
+## Tamago
+
+## TunaSushiRoll
