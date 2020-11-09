@@ -33,7 +33,7 @@ Bonito, Calamari, CaliforniaRoll, CongerEel, Crab, FattyTuna, HerringRoe, InariS
 
 ## HerringRoe
 
-
+<img width="753" alt="6" src="https://user-images.githubusercontent.com/36861752/98604576-4566e500-2327-11eb-8f0b-e818543b0a62.png">
 
 ## InariSushi
 
